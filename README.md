@@ -9,11 +9,11 @@
 
 |tag|unbound|libressl|image|
 |---|---|---|---|
-|`latest`|[`1.9.0`](https://nlnetlabs.nl/downloads/unbound/)|[`2.8.3`](https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/)|[`manifest-v2-2`](https://docs.docker.com/registry/spec/manifest-v2-2/#manifest-list)|
-|`1.9.0`|[`1.9.0`](https://nlnetlabs.nl/downloads/unbound/)|[`2.8.3`](https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/)|[`manifest-v2-2`](https://docs.docker.com/registry/spec/manifest-v2-2/#manifest-list)|
-|`1.9.0-amd64`|[`1.9.0`](https://nlnetlabs.nl/downloads/unbound/)|[`2.8.3`](https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/)|[![](https://images.microbadger.com/badges/image/klutchell/unbound:1.9.0-amd64.svg)](https://microbadger.com/images/klutchell/unbound:1.9.0-amd64)|
-|`1.9.0-arm`|[`1.9.0`](https://nlnetlabs.nl/downloads/unbound/)|[`2.8.3`](https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/)|[![](https://images.microbadger.com/badges/image/klutchell/unbound:1.9.0-arm.svg)](https://microbadger.com/images/klutchell/unbound:1.9.0-arm)|
-|`1.9.0-arm64`|[`1.9.0`](https://nlnetlabs.nl/downloads/unbound/)|[`2.8.3`](https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/)|[![](https://images.microbadger.com/badges/image/klutchell/unbound:1.9.0-arm64.svg)](https://microbadger.com/images/klutchell/unbound:1.9.0-arm64)|
+|`latest`|[`1.9.3`](https://nlnetlabs.nl/downloads/unbound/)|[`2.8.3`](https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/)|[`manifest-v2-2`](https://docs.docker.com/registry/spec/manifest-v2-2/#manifest-list)|
+|`1.9.3`|[`1.9.3`](https://nlnetlabs.nl/downloads/unbound/)|[`2.8.3`](https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/)|[`manifest-v2-2`](https://docs.docker.com/registry/spec/manifest-v2-2/#manifest-list)|
+|`1.9.3-amd64`|[`1.9.3`](https://nlnetlabs.nl/downloads/unbound/)|[`2.8.3`](https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/)|[![](https://images.microbadger.com/badges/image/klutchell/unbound:1.9.3-amd64.svg)](https://microbadger.com/images/klutchell/unbound:1.9.3-amd64)|
+|`1.9.3-arm`|[`1.9.3`](https://nlnetlabs.nl/downloads/unbound/)|[`2.8.3`](https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/)|[![](https://images.microbadger.com/badges/image/klutchell/unbound:1.9.3-arm.svg)](https://microbadger.com/images/klutchell/unbound:1.9.3-arm)|
+|`1.9.3-arm64`|[`1.9.3`](https://nlnetlabs.nl/downloads/unbound/)|[`2.8.3`](https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/)|[![](https://images.microbadger.com/badges/image/klutchell/unbound:1.9.3-arm64.svg)](https://microbadger.com/images/klutchell/unbound:1.9.3-arm64)|
 
 ## Deployment
 

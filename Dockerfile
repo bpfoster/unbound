@@ -55,8 +55,8 @@ RUN curl -fsSL "${LIBRESSL_DOWNLOAD_URL}" -o libressl.tar.gz \
 
 FROM ${ARCH}/alpine:3.9 as unbound
 
-ENV UNBOUND_VERSION="1.9.0"
-ENV UNBOUND_SHA="7dfa8e078507fc24a2d0938eea590389453bacfcac023f1a41af19350ea1f7b87d0c82d7eead121a11068921292a96865e177274ff27ed8b8868445f80f7baf6"
+ENV UNBOUND_VERSION="1.9.3"
+ENV UNBOUND_SHA="21e14dc1577adbe502a262d7fbe9aae0cd389cd9c0b822246beadf00f0ee875e268eeb3ce820433cbb01495d6b182c334b34b63b1bc33b08589a230810ccfe90"
 ENV UNBOUND_DOWNLOAD_URL="https://www.unbound.net/downloads/unbound-${UNBOUND_VERSION}.tar.gz"
 
 # install qemu binaries used for cross-compiling
